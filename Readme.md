@@ -2,7 +2,7 @@
 
 ## Firewall contents
 
-[ ] Firewall hardware or software — the device/system that enforces the rules.
+- [ ] Firewall hardware or software — the device/system that enforces the rules.
 
 - [ ] Network interfaces — connections to the Internet/WAN, LAN, DMZ, etc.
 
