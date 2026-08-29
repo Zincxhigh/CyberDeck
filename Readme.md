@@ -26,47 +26,47 @@
 
 ## IPS Privicy layer on top of Firewall from stopping website tracking systems
 
-                 ┌──────────────────────┐
-                 │       Browser        │
-                 └──────────┬───────────┘
-                            │
-                 ┌──────────▼───────────────┐
-                 │    Privacy Enforcement   │
-                 │          Layer           │
-                 ├──────────────────────────┤
-                 │ 1. [ ] API protection    │
-                 │ 2. [ ] Fingerprint ctrl  │
-                 │ 3. [ ] Data policies     │
-                 │ 4. [ ] Tracker blocking  │
-                 │ 5. [ ] DNS filtering     │
-                 │ 6. [ ] Cookie/storage    │
-                 │ 7. [ ] Permission ctrl   │
-                 │ 8. [ ] Profile manager   │
-                 │ 9. [ ] Audit/logging     │
-                 └──────────┬───────────────┘
-                            │
-                 ┌──────────▼───────────┐
-                 │ Windows Firewall/WFP │
-                 └──────────┬───────────┘
-                            │
-                         Internet
+                                                 ┌──────────────────────┐
+                                                 │       Browser        │
+                                                 └──────────┬───────────┘
+                                                            │
+                                               ┌──────────────────────────┐
+                                               │    Privacy Enforcement   │
+                                               │          Layer           │
+                                               ├──────────────────────────┤
+                                               │ 1. [ ] API protection    │
+                                               │ 2. [ ] Fingerprint ctrl  │
+                                               │ 3. [ ] Data policies     │
+                                               │ 4. [ ] Tracker blocking  │
+                                               │ 5. [ ] DNS filtering     │
+                                               │ 6. [ ] Cookie/storage    │
+                                               │ 7. [ ] Permission ctrl   │
+                                               │ 8. [ ] Profile manager   │
+                                               │ 9. [ ] Audit/logging     │
+                                               └──────────┬───────────────┘
+                                                          │
+                                               ┌──────────▼───────────┐
+                                               │ Windows Firewall/WFP │
+                                               └──────────┬───────────┘
+                                                          │
+                                                       Internet
 
 ## LAYERS
 
-                    ┌──────────────────────┐
-                    │      Web browser     │
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │ Privacy enforcement  │
-                    │      extension       │
-                    └──────────┬───────────┘
-                               │
-              ┌────────────────▼────────────────┐
-              │      Windows Firewall / WFP     │
-              │  IP • port • process • network  │
-              └────────────────┬────────────────┘
-                               │
-                            Internet
+                                                ┌──────────────────────┐
+                                                │      Web browser     │
+                                                └──────────┬───────────┘
+                                                           │
+                                                ┌──────────▼───────────┐
+                                                │ Privacy enforcement  │
+                                                │      extension       │
+                                                └──────────┬───────────┘
+                                                           │
+                                          ┌────────────────▼────────────────┐
+                                          │      Windows Firewall / WFP     │
+                                          │  IP • port • process • network  │
+                                          └────────────────┬────────────────┘
+                                                           │
+                                                        Internet
 
 
