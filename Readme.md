@@ -33,23 +33,25 @@
                                                ┌──────────────────────────┐
                                                │    Privacy Enforcement   │
                                                │          Layer           │
-                                               ├──────────────────────────┤
-                                               │ 1. [ ] API protection    │
-                                               │ 2. [ ] Fingerprint ctrl  │
-                                               │ 3. [ ] Data policies     │
-                                               │ 4. [ ] Tracker blocking  │
-                                               │ 5. [ ] DNS filtering     │
-                                               │ 6. [ ] Cookie/storage    │
-                                               │ 7. [ ] Permission ctrl   │
-                                               │ 8. [ ] Profile manager   │
-                                               │ 9. [ ] Audit/logging     │
                                                └──────────┬───────────────┘
-                                                          │
-                                               ┌──────────▼───────────┐
-                                               │ Windows Firewall/WFP │
-                                               └──────────┬───────────┘
-                                                          │
-                                                       Internet
+                                                            │
+                                                 ┌──────────▼───────────┐
+                                                 │ Windows Firewall/WFP │
+                                                 └──────────┬───────────┘
+                                                            │
+                                                         Internet
+
+## Privicy Enforcement Layer Contents
+
+ - [ ] API protection    
+ - [ ] Fingerprint ctrl  
+ - [ ] Data policies     
+ - [ ] Tracker blocking  
+ - [ ] DNS filtering     
+ - [ ] Cookie/storage    
+ - [ ] Permission ctrl   
+ - [ ] Profile manager
+ - [ ] Audit/logging
 
 ## LAYERS
 
