@@ -53,22 +53,5 @@
  - [ ] Profile manager
  - [ ] Audit/logging
 
-## LAYERS
-
-                                                ┌──────────────────────┐
-                                                │      Web browser     │
-                                                └──────────┬───────────┘
-                                                           │
-                                                ┌──────────▼───────────┐
-                                                │ Privacy enforcement  │
-                                                │      extension       │
-                                                └──────────┬───────────┘
-                                                           │
-                                          ┌────────────────▼────────────────┐
-                                          │      Windows Firewall / WFP     │
-                                          │  IP • port • process • network  │
-                                          └────────────────┬────────────────┘
-                                                           │
-                                                        Internet
 
 
