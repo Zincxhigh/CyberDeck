@@ -24,6 +24,27 @@
 
 - [ ] Updates/signatures — keeps threat-detection rules and software current.
 
+## Privicy Enforcement Layer Contents
+
+ - [ ] API protection
+  
+ - [ ] Fingerprint ctrl
+        
+ - [ ] Data policies
+        
+ - [ ] Tracker blocking
+
+ - [ ] DNS filtering
+       
+ - [ ] Cookie/storage
+          
+ - [ ] Permission ctrl
+         
+ - [ ] Profile manager
+       
+ - [ ] Audit/logging
+
+
 ## IPS Privicy layer on top of Firewall from stopping website tracking systems
 
                                                  ┌──────────────────────┐
@@ -41,17 +62,6 @@
                                                             │
                                                          Internet
 
-## Privicy Enforcement Layer Contents
-
- - [ ] API protection    
- - [ ] Fingerprint ctrl  
- - [ ] Data policies     
- - [ ] Tracker blocking  
- - [ ] DNS filtering     
- - [ ] Cookie/storage    
- - [ ] Permission ctrl   
- - [ ] Profile manager
- - [ ] Audit/logging
 
 
 
