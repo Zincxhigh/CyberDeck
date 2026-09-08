@@ -1,6 +1,8 @@
-# Contents of security 
+# The Firewall System for the custom Operating System in CyberDeck
 
-## Firewall contents
+## Contents of security 
+
+### Firewall contents
 
 - [ ] Firewall hardware or software — the device/system that enforces the rules.
 
@@ -24,7 +26,7 @@
 
 - [ ] Updates/signatures — keeps threat-detection rules and software current.
 
-## Privicy Enforcement Layer Contents
+### Privicy Enforcement Layer Contents
 
  - [ ] API protection
   
@@ -45,7 +47,7 @@
  - [ ] Audit/logging
 
 
-## IPS Privicy layer on top of Firewall from stopping website tracking systems
+### IPS Privicy layer on top of Firewall from stopping website tracking systems
 
                                                  ┌──────────────────────┐
                                                  │       Browser        │
