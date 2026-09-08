@@ -16,9 +16,7 @@ Running On Arch This System is Fast, reliable and Compact enough to Run Smooth o
 
 - [ ] Place Holder
     
-# The Custom Firewall System For OS
-
-## Contents of security 
+# The Custom Firewall System For The OS
 
 ### Firewall contents
 
