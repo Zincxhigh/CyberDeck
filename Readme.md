@@ -1,13 +1,21 @@
 # About 
+
 The first CyberDeck with it's own Operating system and security Framework for penetration testing,OSINT intelligence,Forensics Tools,Social engineering Tools and more all in one compact CyberDeck as we know that CyberDeck's are not Primerily used for those kind of need's For Todays need's but originally the CyberDeck Idea was for a Compact Hacking computer for Quick penetration system The People who make this For Fun are Larper's be advised not to trust them on why you should Have cute anime Picture's On your CyberDeck as it is known to make the CyberDeck weaker
 
 # Operating System (OS)
 
+Running On Arch This System is Fast, reliable and Compact enough to Run Smooth on this Machine we have made major Tweak's on this distro from design all the way to it's Firewall it is specifically build for CyberDeck's and is best for a cybersecurity Use
 
 # CyberDeck
 ## Hardware Usage
+- [ ] Place Holder
 
+- [ ] Place Holder
 
+- [ ] Place Holder
+
+- [ ] Place Holder
+    
 # The Firewall System for the custom Operating System in CyberDeck
 
 ## Contents of security 
