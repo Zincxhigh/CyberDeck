@@ -16,7 +16,7 @@ Running On Arch This System is Fast, reliable and Compact enough to Run Smooth o
 
 - [ ] Place Holder
     
-# The Firewall System for the custom Operating System in CyberDeck
+# The Custom Firewall System For OS
 
 ## Contents of security 
 
